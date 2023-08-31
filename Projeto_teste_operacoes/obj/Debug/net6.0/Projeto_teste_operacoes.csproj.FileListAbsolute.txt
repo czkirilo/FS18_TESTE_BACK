@@ -1,0 +1,12 @@
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.deps.json
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\bin\Debug\net6.0\Projeto_teste_operacoes.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.csproj.AssemblyReference.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.AssemblyInfoInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.AssemblyInfo.cs
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.csproj.CoreCompileInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\refint\Projeto_teste_operacoes.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\Projeto_teste_operacoes.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\FS18_TESTE_BACK\Projeto_teste_operacoes\obj\Debug\net6.0\ref\Projeto_teste_operacoes.dll
